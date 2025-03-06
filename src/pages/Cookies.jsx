@@ -67,9 +67,9 @@ const CookiesPolicy = () => {
                 <h4>6. Contact Us</h4>
                 <p>If you have any questions about our Cookies Policy, contact us at:</p>
                 <ul>
-                  <li><strong>Email:</strong> info@coochbehartravel.com</li>
-                  <li><strong>Phone:</strong> 099322 04885</li>
-                  <li><strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</li>
+                  <li><strong>Email:</strong> lalitatourt@gmail.com</li>
+                  <li><strong>Phone:</strong> 060011 92977</li>
+                  <li><strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014</li>
                 </ul>
               </Card>
             </Col>

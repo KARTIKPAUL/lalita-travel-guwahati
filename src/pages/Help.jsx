@@ -17,10 +17,7 @@ const Help = () => {
                     <li className="breadcrumb-item">
                       <a href="/">Home</a>
                     </li>
-                    <li
-                      className="breadcrumb-item text-white active"
-                      aria-current="page"
-                    >
+                    <li className="breadcrumb-item text-white active" aria-current="page">
                       Help & Support
                     </li>
                   </ol>
@@ -37,29 +34,22 @@ const Help = () => {
               <Card className="shadow p-4">
                 <h2 className="text-center text-primary mb-4">How Can We Help?</h2>
                 <p>
-                  At <strong>CoochBeharTravel</strong>, we are dedicated to providing
-                  excellent customer support. Below, you will find answers to some
-                  of the most frequently asked questions.
+                  At <strong>Lalita Tour & Travels</strong>, we are dedicated to providing excellent customer support. Below, you will find answers to some of the most frequently asked questions.
                 </p>
 
                 <h4>1. How do I make a booking?</h4>
                 <p>
-                  You can book your trip online through our website by selecting
-                  your preferred destination and completing the payment process.
-                  Alternatively, you can contact our support team for assistance.
+                  You can book your trip online through our website by selecting your preferred destination and completing the payment process. Alternatively, you can contact our support team for assistance.
                 </p>
 
                 <h4>2. Can I modify or cancel my booking?</h4>
                 <p>
-                  Yes, you can modify or cancel your booking based on our
-                  cancellation policy. Please refer to our terms and conditions
-                  for details or contact customer support.
+                  Yes, you can modify or cancel your booking based on our cancellation policy. Please refer to our terms and conditions for details or contact customer support.
                 </p>
 
                 <h4>3. What payment methods do you accept?</h4>
                 <p>
-                  We accept credit/debit cards, UPI, net banking, and other secure
-                  payment methods for online bookings.
+                  We accept credit/debit cards, UPI, net banking, and other secure payment methods for online bookings.
                 </p>
 
                 <h4>4. How do I contact customer support?</h4>
@@ -68,21 +58,19 @@ const Help = () => {
                 </p>
                 <ul>
                   <li>
-                    <strong>Email:</strong> support@coochbehartravel.com
+                    <strong>Email:</strong> lalitatourt@gmail.com
                   </li>
                   <li>
-                    <strong>Phone:</strong> 099322 04885
+                    <strong>Phone:</strong> 060011 92977
                   </li>
                   <li>
-                    <strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, 
-                    Biswa Singha Rd, Cooch Behar, West Bengal 736101
+                    <strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014
                   </li>
                 </ul>
 
                 <h4>5. What should I do if I face an issue during my trip?</h4>
                 <p>
-                  If you encounter any issues during your journey, please contact
-                  our support team immediately. We will do our best to assist you.
+                  If you encounter any issues during your journey, please contact our support team immediately. We will do our best to assist you.
                 </p>
               </Card>
             </Col>

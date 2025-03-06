@@ -5,40 +5,40 @@ import "slick-carousel/slick/slick-theme.css";
 
 const testimonials = [
   {
-    name: "Mr.Prasenjit Chowdhury.",
+    name: "Dharmendra Singh",
     location: "Thiland",
     img: "assets/img/testimonial-2.jpg",
-    text: "It was a mind-blowing experience of traveling with Coochbehar Travels,, special thanks to Mr Biplab Chakraborty,as he extended his cordial support to me and my family in every aspect of Thailand Tour.",
+    text: "We had a great and memorable trip of Assam and Meghalay through Lalita Tour and Travels. Uma Prasad helped us plan the itinerary and provided a good car with a very skillful, helpful and cooperative driver and guide, Kishor Burman",
   },
   {
-    name: "Rajpriya Bera",
+    name: "Kuldeep Srivastava",
     location: "India",
     img: "assets/img/testimonial-2.jpg",
-    text: "Our experience at Nepal tour has been awesome this year. We have travelled a lot with this travel agency, never ever got dissatisfied. Road conditions are terrible in Nepal, their driver Chiranjit Das has been awesome 👍",
+    text: "It was a very good experience travelling with Lalita tour and travels Guwahati. The overall tour management for Assam,Meghalaya and arunachal was beyond comparison. Good food nice hotel stay and covering all important  points of  sight",
   },
   {
-    name: "Jayita das",
+    name: "Sayan Maiti",
     location: "Inida",
     img: "assets/img/testimonial-3.jpg",
-    text: "We recently went to Kashmir with Coochbehar Travels and had the most horrible experience ever. Insolent  behavior of the tour managers ruined our whole trip. There was absolutely no cooperation coupled with utter harassment.",
+    text: "Booked a traveller from Uma Prasad(Operator) for Meghalaya Trip at a very cheap price. The driver Shiba is also good and skilled. The vehicle is brand new. So the sound system and hand rest is not available now.",
   },
   {
-    name: "Manali Sarkar",
+    name: "ashwini jena",
     location: "India",
     img: "assets/img/testimonial-4.jpg",
-    text: "It was an amazing experience ❤️....looking forward to plan more trips like this mesmerizing one!! Thanking Coochbehar travels for making our trip a successful one with great joy and happiness ❤️",
+    text: "Recently we have travelled to Assam and Meghalaya through Lalita Tour and travels.such a good arrangement by Uma Da and driver munna bhaiya is also nice humble person.Thank u so much Lalita and travels team.",
   },
   {
-    name: "Parsomi Biswas",
+    name: "Ashim Maity",
     location: "India",
     img: "assets/img/testimonial-3.jpg",
-    text: "We went to a family tour at  Rajasthan this year with Coochbehar Travel. It is incredible that we didn't even have to call them once during the whole journey. Entire tour is so nicely organised, which is commendable.",
+    text: "Mr.Uma Prasad a real gentleman very well organised the tour and in terms of car services excellent. Will recommend all to choose their car rental and consider them as your travel partner.",
   },
   {
-    name: "Debolina Saha",
+    name: "KEKA ASH",
     location: "India",
     img: "assets/img/testimonial-4.jpg",
-    text: "Great experience with Coochbehar Travel this time around. We are a family of 16 members went to Kashmir at 20th October this month. We had a wonderful experience with our Group lead Mr Shubha Chakraborty.",
+    text: "Excellent place,all around greenery,very neat,no garbages around. Our driver Justin Govinda was very friendly,cared for  our needs,helped us in all possible ways to make our trip a memorable one Thank you",
   },
 ];
 

@@ -36,22 +36,21 @@ export default function Footer() {
             <h4 className="text-white mb-3">Contact</h4>
             <p className="mb-2">
               <i className="fa fa-map-marker-alt me-3" />
-              Charu Arcade, Booking Office- Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101
+              H/N-11, NH-27, Sundarbari , Jalukbari, Guwahati ,Assam 781012, Guwahati, Assam 781014
             </p>
             <p className="mb-2">
               <i className="fa fa-phone-alt me-3" />
-              099322 04885
+              060011 92977
             </p>
             <p className="mb-2">
               <i className="fa fa-envelope me-3" />
-              info@coochbehartravel.com
-
+              lalitatourt@gmail.com
             </p>
             <div className="d-flex pt-2">
               <a className="btn btn-outline-light btn-social" href="/">
                 <i className="fab fa-twitter" />
               </a>
-              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/Coochbehartravel/">
+              <a className="btn btn-outline-light btn-social" href="https://www.facebook.com/p/Lalita-Tour-Travels-100095492700914/">
                 <i className="fab fa-facebook-f" />
               </a>
               <a className="btn btn-outline-light btn-social" href="">
@@ -137,7 +136,7 @@ export default function Footer() {
             <div className="col-md-6 text-center text-md-start mb-3 mb-md-0">
               ©{" "}
               <a className="" href="#">
-                CoochBeharTravel
+                LalitaTrvel
               </a>
               , 2025 All Right Reserved.
               {/* Designed By{" "} */}
@@ -147,10 +146,10 @@ export default function Footer() {
             </div>
             <div className="col-md-6 text-center text-md-end">
               <div className="footer-menu">
-                <a href="/">Home</a>
-                <a href="/cookies">Cookies</a>
-                <a href="/help">Help</a>
-                <a href="/faqs">FQAs</a>
+                <Link to="/">Home</Link>
+                <Link to="/cookies">Cookies</Link>
+                <Link to="/help">Help</Link>
+                <Link to="/faqs">FQAs</Link>
               </div>
             </div>
           </div>

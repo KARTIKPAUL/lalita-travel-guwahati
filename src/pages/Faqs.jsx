@@ -58,9 +58,9 @@ const FAQs = () => {
                     <Accordion.Body>
                       You can reach our support team via:
                       <ul>
-                        <li><strong>Email:</strong> support@coochbehartravel.com</li>
-                        <li><strong>Phone:</strong> 099322 04885</li>
-                        <li><strong>Address:</strong> Charu Arcade, Booking Office - Yubraj Hotel, Biswa Singha Rd, Cooch Behar, West Bengal 736101</li>
+                        <li><strong>Email:</strong> lalitatourt@gmail.com</li>
+                        <li><strong>Phone:</strong> 060011 92977</li>
+                        <li><strong>Address:</strong> H/N-11, NH-27, Sundarbari, Jalukbari, Guwahati, Assam 781014</li>
                       </ul>
                     </Accordion.Body>
                   </Accordion.Item>
